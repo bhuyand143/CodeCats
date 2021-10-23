@@ -1,3 +1,4 @@
+//Program to take the day number and find out the day of the week 
 #include<iostream.h>
 #include<conio.h>
 void main()

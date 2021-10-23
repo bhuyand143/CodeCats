@@ -1,10 +1,11 @@
+//Program to find the marks of a student and find out the percentage and grade
 #include<iostream.h>
 #include<conio.h>
 void main()
 {
 	int p,c,b,m,cs,perc;
 	cin>>p>>c>>b>>m>>cs;
-	perc=((p+c+b+m+cs)*100)/500;
+	perc=((p+c+b+m+cs)*100)/500;//full marks of each subject is taken as 100
 	cout<<"Percentage:"<<perc<<endl;
 	if (perc>=90)
     	cout<<"Grade A";
