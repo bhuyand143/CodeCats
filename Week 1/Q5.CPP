@@ -5,7 +5,7 @@ void main()
 {
 char c;
 cin>>c;
-if(c>=97 && c<=122 || c>=65 && c<=93)
+if(c>=97 && c<=122 || c>=65 && c<=90)
 cout<<"alphabet";
 else if(c>=48 && c<=57)
 cout<<"Digit";
