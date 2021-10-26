@@ -12,6 +12,6 @@ void main()
 		cout<<i<<" ";
 		sum+=i; 
 	}
-	cout<<"The sum of Natural Number upto "<<n<<"terms : "<<sum;
+	cout<<"\nThe sum of Natural Number upto "<<n<<"terms : "<<sum;
 	getch();
 }
