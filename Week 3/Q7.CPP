@@ -24,8 +24,8 @@ int main(void)
         low=arr[i];
     } 
     }
-    // cout<<"\nHighest:-"<<high;
-    // cout<<"\nlowest:-"<<low;
+    cout<<"\nHighest:-"<<high;
+    cout<<"\nlowest:-"<<low;
     cout<<"\nsecond highest:-"<<high2;
     cout<<"\nsecond lowest:-"<<low2;
     return 0;
