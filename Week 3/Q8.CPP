@@ -1,4 +1,4 @@
-//coin flip game:- https://discuss.codechef.com/t/conflip-editorial/866
+//coin flip game:- https://www.codechef.com/problems/CONFLIP
 #include<iostream>
 using namespace std;
 int main(void)
