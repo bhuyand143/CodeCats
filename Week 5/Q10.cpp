@@ -1,4 +1,4 @@
-//Program to compare two strings
+//program to concatenate two strings
 #include<iostream>
 using namespace std;
 int main(void)
