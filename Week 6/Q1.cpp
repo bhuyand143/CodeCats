@@ -1,3 +1,4 @@
+//Program to find one extra character in two strings
 #include<iostream>
 using namespace std;
 int main(void)
